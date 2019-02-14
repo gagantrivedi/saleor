@@ -75,10 +75,10 @@
         },
         "botocore": {
             "hashes": [
-                "sha256:4df39ef9bcd7766e3a71a9e7f976ca6c9e926f451914a9c073aa50e9519436ca",
-                "sha256:d3cea95919892eac30e2ff8c5a8908022d5a93f917df3cff4ed06a6926dcc0e5"
+                "sha256:48f780477904795b0ce559b335d0aab4c3bb9efa96fbdf24c418e22ef0745e08",
+                "sha256:d931f98e392af6b1f000719d1e14f7d85194d36d2c0a4121cbc59abc8ad64274"
             ],
-            "version": "==1.12.93"
+            "version": "==1.12.94"
         },
         "braintree": {
             "hashes": [
@@ -284,10 +284,11 @@
         },
         "django-elasticsearch-dsl": {
             "hashes": [
-                "sha256:dffde3cc83b22d458aafdadb9df37288d37204c5c6b1a1d5ace87808615622fc"
+                "sha256:114889f0f70d584e300953b9fc75f312b447e3ff96136dad03028654ba9f4cbd",
+                "sha256:8c96714d8eef30763e820a2909663b236df765e5c6c8508721489dc9713dfef7"
             ],
             "index": "pypi",
-            "version": "==0.5.0"
+            "version": "==0.5.1"
         },
         "django-filter": {
             "hashes": [
