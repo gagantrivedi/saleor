@@ -8,7 +8,7 @@ python_version = "3.6"
 
 [packages]
 Babel = ">=2.5"
-bleach = "<3.0"
+bleach = "<4.0"
 "boto3" = "*"
 cairosvg = "*"
 Django = ">=1.11"
